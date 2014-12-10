@@ -1,6 +1,6 @@
 ﻿//-----------------------------------------------------------------------
-// <copyright file="Program.cs" company="gen3 media">
-//     Copyright gen3 media
+// <copyright file="Program.cs" company="none">
+//     MIT licence
 // </copyright>
 //-----------------------------------------------------------------------
 
